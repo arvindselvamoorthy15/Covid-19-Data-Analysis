@@ -65,5 +65,5 @@ To get started with this project, follow these steps:
 ## Contact
 
 For any questions or feedback, please contact:
-- Arvind S K(mailto:arvindselvamoorthy15@gmail.com)
+- Arvind Selvamoorthy(mailto:arvindselvamoorthy15@gmail.com)
 
